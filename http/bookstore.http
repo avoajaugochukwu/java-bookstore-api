@@ -1,0 +1,21 @@
+### Find All bookstores
+GET http://localhost:8080/api/v1/bookstores
+
+### Get bookstores by ID
+GET http://localhost:8080/api/v1/bookstores/1
+
+### Create new bookstores
+POST http://localhost:8080/api/v1/bookstores
+Content-Type: application/json
+
+{
+  "id": 2,
+  "name": "Bookstore 2",
+  "address": "Address 2",
+  "city": "Lagos",
+  "state": "Lagos",
+  "status": "IN_PROGRESS",
+  "type": "BIG",
+  "createdAt": "2023-03-01T10:25:02.838496",
+  "updatedAt": null,
+}

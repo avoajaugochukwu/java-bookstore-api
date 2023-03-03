@@ -1,0 +1,52 @@
+[
+  {
+      "name": "Bookstore 1",
+      "address": "Address 1",
+      "city": "City 1",
+      "state": "State 1",
+      "status": "COMPLETED",
+      "type": "MEDIUM",
+      "createdAt": "2020-01-01T00:00:00",
+      "updatedAt": "2020-01-01T00:00:00"
+  },
+  {
+      "name": "Bookstore 2",
+      "address": "Address 2",
+      "city": "City 2",
+      "state": "State 2",
+      "status": "COMPLETED",
+      "type": "MEDIUM",
+      "createdAt": "2020-01-01T00:00:00",
+      "updatedAt": "2020-01-01T00:00:00"
+  },
+  {
+      "name": "Bookstore 3",
+      "address": "Address 3",
+      "city": "City 3",
+      "state": "State 3",
+      "status": "COMPLETED",
+      "type": "MEDIUM",
+      "createdAt": "2020-01-01T00:00:00",
+      "updatedAt": "2020-01-01T00:00:00"
+  },
+  {
+      "name": "Bookstore 4",
+      "address": "Address 4",
+      "city": "City 4",
+      "state": "State 4",
+      "status": "COMPLETED",
+      "type": "MEDIUM",
+      "createdAt": "2020-01-01T00:00:00",
+      "updatedAt": "2020-01-01T00:00:00"
+  },
+  {
+    "name": "Feelers",
+    "address": "Feelers Address",
+    "city": "City 4",
+    "state": "State 4",
+    "status": "COMPLETED",
+    "type": "MEDIUM",
+    "createdAt": "2020-01-01T00:00:00",
+    "updatedAt": "2020-01-01T00:00:00"
+}
+]
